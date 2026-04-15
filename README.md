@@ -30,12 +30,12 @@ Evaluates performance metrics such as sales, efficiency, or KPIs.
 - Data Analysis Techniques
 ---
 ## Key Concepts Covered
-Aggregations & Grouping
-Window Functions
-Time Series Analysis
-Data Segmentation
-Performance Metrics
-Cumulative Calculations
+- Aggregations & Grouping
+- Window Functions
+- Time Series Analysis
+- Data Segmentation
+- Performance Metrics
+- Cumulative Calculations
 
 ---
 ## How to Use
