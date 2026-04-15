@@ -1,6 +1,6 @@
 -- Performance Analysis (Window Function)
--- Comparing the current value to a target value. 
--- helps measure success and compare performance.
+/* Comparing the current value to a target value,
+helps measure success and compare performance.*/
 WITH yearly_product_sales AS (
 SELECT 
 	YEAR(f.order_date) AS order_year,
